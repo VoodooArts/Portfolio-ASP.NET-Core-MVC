@@ -1,0 +1,16 @@
+﻿#foto {
+    width: 200px;
+    margin: 2rem 0;
+    border-radius: 15%;
+}
+
+.section-welcome{
+    margin: 5rem 0 5rem 0;
+}
+.section-welcome h2{
+    margin-bottom: 1rem;
+}
+.section-welcome p{
+    font-size: 1.25rem;
+}
+

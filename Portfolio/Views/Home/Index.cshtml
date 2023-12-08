@@ -1,0 +1,18 @@
+﻿@model HomeIndexViewModel
+
+@{
+    ViewData["Title"] = "Portfolio Bruno Planterose";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bruno Planterose</h1>
+    <h5>I'm a FullStack Developer Junior oriented to .Net and Javascript technologies.</h5>
+    <img 
+    id="foto"
+    src="~/images/mia.jpg" alt="Bruno Planterose - FullStack Developer" />
+    <partial name="_intro" />
+    <partial name="_skills" />
+    <partial name="_projects" model="Model.Proyectos"/>
+    
+    
+</div>

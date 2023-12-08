@@ -1,0 +1,8 @@
+﻿
+#foto {
+        width: 200px;
+        margin:2rem 0; 
+        border-radius: 15 %;
+
+    }
+
